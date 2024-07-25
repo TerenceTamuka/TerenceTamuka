@@ -7,7 +7,7 @@
 
 ## My University 1st Class Degree Certificate
 
-![Certificate](terencezengeyacv/University Grade (FIRST-CLASS).jpg)
+![Certificate]("terencezengeyacv/University Grade (FIRST-CLASS).jpg")
 
 ## Get in Touch
 - 📫 How to reach me: [terencetamuka@gmail.com](mailto:terencetamuka@gmail.com)
