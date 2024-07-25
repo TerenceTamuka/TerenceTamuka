@@ -5,10 +5,6 @@
 - 🌱 I’m currently on a Full Stack Development program with Code Institute, covering programming languages such as HTML, CSS, and JavaScript. Furthermore, I will also be learning the Django and Node.js frameworks.
 - 💞️ I’m looking to collaborate on diverse computer science-related projects, ideas, and innovations.
 
-## My University 1st Class Degree Certificate
-
-![My Certificate](https://github.com/TerenceTamuka/main/myunicertificate.jpg)
-
 
 ## Get in Touch
 - 📫 How to reach me: [terencetamuka@gmail.com](mailto:terencetamuka@gmail.com)
