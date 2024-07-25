@@ -1,6 +1,6 @@
- #👋 Hi, I’m @TerenceTamuka
+ # 👋 Hi, I’m @TerenceTamuka
 
- ##About Me
+ ## About Me
  - 👀 I am a Computer Science graduate.
 - 🌱 I’m currently on a Full Stack Development program with Code Institute, covering programming languages such as HTML, CSS, and JavaScript. Furthermore, I will also be learning the Django and Node.js frameworks.
 - 💞️ I’m looking to collaborate on diverse computer science-related projects, ideas, and innovations.
