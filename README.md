@@ -7,7 +7,8 @@
 
 ## My University 1st Class Degree Certificate
 
-![Certificate]("TerenceTamuka/myunicertificate.jpg")
+![My Certificate](https://github.com/TerenceTamuka/repository-name/blob/main/myunicertificate.jpg)
+
 
 ## Get in Touch
 - 📫 How to reach me: [terencetamuka@gmail.com](mailto:terencetamuka@gmail.com)
